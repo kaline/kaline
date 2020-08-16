@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/kalinebfm"
-  data-size="large">
-Follow @Kaline</a>
+<a href="https://twitter.com/intent/follow?screen_name=kalinebfm"><img src="https://img.shields.io/twitter/follow/kalinebfm.svg?label=Follow%20@kalinebfm" alt="Follow @kalinebfm"></img>
 <!--
 **kaline/kaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
