@@ -15,7 +15,7 @@ Here are some ideas to get you started
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with web projects
 - 💬 Ask me about Google, git and cool projects
-- 📫 How to reach me: <a href="kaline.me">kaline</a>
+- 📫 How to reach me: <a href="http://kaline.me">kaline</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like candies
 
