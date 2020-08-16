@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/intent/follow?screen_name=kalinebfm"><img src="https://img.shields.io/twitter/follow/kalinebfm.svg?label=Follow%20@kalinebfm" alt="Follow @kalinebfm"></img>
+<a href="https://twitter.com/intent/follow?screen_name=kalinebfm"><img src="https://img.shields.io/twitter/follow/kalinebfm.svg?label=Follow%20@kalinebfm" alt="Follow @kalinebfm"></img></a>
+
 
 <!--
 **kaline/kaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started-->
+Here are some ideas to get you started
+-->
+
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Algorithms
