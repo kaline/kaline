@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with web projects
 - 💬 Ask me about Google, git and cool projects
 - 📫 How to reach me: <a href="kaline.me">kaline</a>
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I like candies
 
