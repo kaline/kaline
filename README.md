@@ -17,5 +17,5 @@ Here are some ideas to get you started
 - 💬 Ask me about Google, git and cool projects
 - 📫 How to reach me: <a href="http://kaline.me">kaline</a>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like candies
+- ⚡ Fun fact: I'm a telecom engineer
 
