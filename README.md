@@ -14,8 +14,4 @@ Here are some ideas to get you started
 - 🌱 I’m currently learning Algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with web projects
-- 💬 Ask me about Google, git and cool projects
-- 📫 How to reach me: <a href="http://kaline.me">kaline</a>
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a telecom engineer
 
