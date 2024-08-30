@@ -11,7 +11,7 @@ Here are some ideas to get you started
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Algorithms
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I love cooking and saturdays mornings
+-  🫀 I love cooking and saturdays mornings
 
 ##
 
