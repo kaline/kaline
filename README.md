@@ -8,9 +8,8 @@ Here are some ideas to get you started
 -->
 
 
-- 🔭 I’m currently studying ML
+- 🔭 I’m currently studying web
 - 🌱 I’m currently learning Algorithms
-- 👯 I’m looking to collaborate on open source projects
 -  💚 I love cooking and saturdays mornings
 
 ##
